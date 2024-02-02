@@ -1,0 +1,3 @@
+class Conig:
+    DEBUG = True
+    
