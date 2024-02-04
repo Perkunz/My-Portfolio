@@ -1,3 +1,2 @@
-class Conig:
+class Config:
     DEBUG = True
-    
