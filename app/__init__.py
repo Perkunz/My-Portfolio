@@ -7,5 +7,4 @@ app.config.from_object(Config)
 app.config['SECRET_KEY']
 
 
-from app import *
 from app.routes.root import *
